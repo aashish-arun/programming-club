@@ -1,0 +1,102 @@
+{
+    "Welcome": {
+        "Message": "Hi there!",
+        "Date": "2025-02-27"
+    },
+    "Test Message": {
+        "Message": "Hello World",
+        "Date": "2025-02-27"
+    },
+    "Sample Data": {
+        "Message": "Just testing",
+        "Date": "2025-02-27"
+    },
+    "Greeting": {
+        "Message": "Good Morning!",
+        "Date": "2025-02-28"
+    },
+    "Info": {
+        "Message": "Important update",
+        "Date": "2025-03-01"
+    },
+    "Notification": {
+        "Message": "You have a new message",
+        "Date": "2025-03-02"
+    },
+    "Reminder": {
+        "Message": "Don't forget the meeting at 3PM",
+        "Date": "2025-03-03"
+    },
+    "Alert": {
+        "Message": "System alert: Update required",
+        "Date": "2025-03-04"
+    },
+    "Warning": {
+        "Message": "Low disk space",
+        "Date": "2025-03-05"
+    },
+    "Error": {
+        "Message": "404 Error - Page not found",
+        "Date": "2025-03-06"
+    },
+    "Success": {
+        "Message": "Operation completed successfully",
+        "Date": "2025-03-07"
+    },
+    "Failure": {
+        "Message": "Something went wrong, try again",
+        "Date": "2025-03-08"
+    },
+    "Progress": {
+        "Message": "Process is 50% complete",
+        "Date": "2025-03-09"
+    },
+    "Task": {
+        "Message": "You have 5 tasks pending",
+        "Date": "2025-03-10"
+    },
+    "Quote": {
+        "Message": "The only way to do great work is to love what you do.",
+        "Date": "2025-03-11"
+    },
+    "Fact": {
+        "Message": "Did you know? Honey never spoils.",
+        "Date": "2025-03-12"
+    },
+    "Tip": {
+        "Message": "Drink water to stay hydrated",
+        "Date": "2025-03-13"
+    },
+    "Advice": {
+        "Message": "Always trust your instincts",
+        "Date": "2025-03-14"
+    },
+    "Event": {
+        "Message": "Join us for the annual conference",
+        "Date": "2025-03-15"
+    },
+    "Announcement": {
+        "Message": "We are launching a new product soon!",
+        "Date": "2025-03-16"
+    },
+    "Celebration": {
+        "Message": "Happy Birthday!",
+        "Date": "2025-03-17"
+    },
+    "Reminder 2": {
+        "Message": "Don't forget to complete your assignments",
+        "Date": "2025-03-18"
+    },
+    "Update": {
+        "Message": "Software update available",
+        "Date": "2025-03-19"
+    },
+    "Suggestion": {
+        "Message": "Try our new feature for a better experience",
+        "Date": "2025-03-20"
+    },
+    "Offer": {
+        "Message": "Get 20% off your next purchase",
+        "Date": "2025-03-21"
+    }
+}
