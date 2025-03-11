@@ -17,9 +17,10 @@ Joined Programming Club @SAIT in Fall 2024, They were also created in 2024.
         }
 
         03-calculator {
-            [Start Date: 2025|03|06] [Total Time (hr): 09 hr 48 mins] [Finish Date: 2025|03|06] 
+            [Start Date: 2025|03|06] [Total Time (hr): 09 hr 53 mins] [Finish Date: 2025|03|11] 
             Remarks:
                 Learned more about try - except as well as ValueError and ZeroDivisionError.
+                Completed all the bonus challenges as well.
         }
     }
 }
