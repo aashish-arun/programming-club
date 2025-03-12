@@ -1,5 +1,5 @@
 """ 
-[Start Date: 2025|02|5] [Total Time (hr): 9 hr 20 mins] [Finish Date: 2025|02|27] 
+[Start Date: 2025|02|05] [Total Time (hr): 09 Hours 20 Minutes] [Finish Date: 2025|02|27] 
 [Author: FirstOfLast]
 """
 import os

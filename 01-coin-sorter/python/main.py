@@ -1,5 +1,5 @@
 """ 
-[Start Date: 2025|02|4] [Total Time (hr): 1 hr 23 mins] [Finish Date: 2025|02|4] 
+[Start Date: 2025|02|04] [Total Time (hr): 01 Hours 23 Minutes] [Finish Date: 2025|02|04] 
 [Author: FirstOfLast]
 """
 
