@@ -23,6 +23,12 @@
                     Completed all the bonus challenges as well.
             }
 
+            04-blackjack {
+                [Start Date: 2025|03|12] [Total Time (hr): 04 Hours 50 Minutes] [Finish Date: 2025|03|13]
+                Remarks:
+                    Not gonna lie, the only thing I mainly learned in this project is what blackjack is and how to play it. Finally also learned a bit about some functions in the random lib.
+            }
+
         }
         
     }
